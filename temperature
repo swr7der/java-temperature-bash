@@ -1,0 +1,5 @@
+#!/bin/bash
+
+gradle build -q
+resp="$(java -jar build/libs/WeatherCommand.jar)"
+espeak -ven-us+f4 -s170 -p40 "$resp"
