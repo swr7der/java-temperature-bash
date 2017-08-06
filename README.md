@@ -18,4 +18,4 @@ A Java approach to listen temperature in linux terminal of your location
   ```
   temperature
   ```
-  
+**NOTE:** Running command needs internet connection and running it first time would take more time as compared to running it other times. 
