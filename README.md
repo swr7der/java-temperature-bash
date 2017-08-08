@@ -16,6 +16,7 @@ A Java approach to listen temperature in linux terminal of your location
   ```
   3. To listen temperature of your location, simply run:
   ```
+  cd <PATH_TO_DIRECTORY_WHERE_PROJECT_FILES_ARE>
   temperature
   ```
 **NOTE:** Running command needs internet connection and running it first time would take more time as compared to running it other times. 
